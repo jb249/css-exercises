@@ -1,0 +1,10 @@
+/* styles.css */
+
+.red-text {
+    background-color: rgb(224, 125, 125);
+    font-size: 24px;
+}
+
+.larger-font {
+    font-size: 32px;
+}
