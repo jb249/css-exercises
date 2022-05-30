@@ -1,10 +1,15 @@
 /* styles.css */
 
 .red-text {
-    background-color: rgb(224, 125, 125);
-    font-size: 24px;
+    background-color: rgb(237, 152, 152);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
 }
 
 .larger-font {
-    font-size: 32px;
+    font-size: 24px;
+}
+
+#blue-line {
+    color: rgb(10,10,255);
+    font-size: 36px
 }
